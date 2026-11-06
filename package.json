@@ -1,0 +1,12 @@
+{
+  "name": "paypal-invoice-copilot",
+  "version": "1.0.0",
+  "description": "Turn a plain-English job description into an invoice and a PayPal sandbox checkout.",
+  "license": "MIT",
+  "private": true,
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  }
+}
